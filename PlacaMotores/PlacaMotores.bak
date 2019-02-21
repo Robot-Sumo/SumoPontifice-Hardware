@@ -1,0 +1,48 @@
+EESchema Schematic File Version 4
+EELAYER 26 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Driver_STA:STA6940M U?
+U 1 1 5C4357FE
+P 5650 2750
+F 0 "U?" H 5625 3465 50  0000 C CNN
+F 1 "STA6940M" H 5625 3374 50  0000 C CNN
+F 2 "" H 5650 2450 50  0001 C CNN
+F 3 "" H 5650 2450 50  0001 C CNN
+	1    5650 2750
+	1    0    0    -1  
+$EndComp
+Text GLabel 5000 2350 0    50   Input ~ 0
+VBB
+Wire Wire Line
+	5000 2350 5150 2350
+Text GLabel 4200 1750 0    50   Input ~ 0
+VBB
+$Comp
+L power:+24V #PWR?
+U 1 1 5C4359A9
+P 4450 1700
+F 0 "#PWR?" H 4450 1550 50  0001 C CNN
+F 1 "+24V" H 4465 1873 50  0000 C CNN
+F 2 "" H 4450 1700 50  0001 C CNN
+F 3 "" H 4450 1700 50  0001 C CNN
+	1    4450 1700
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4450 1750 4450 1700
+Wire Wire Line
+	4200 1750 4450 1750
+$EndSCHEMATC
