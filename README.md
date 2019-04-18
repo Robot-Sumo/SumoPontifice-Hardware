@@ -20,13 +20,13 @@ De esta forma se encontraran disponibles el archivo .sch (Esquemático del dise�
 
 En el esquemático se podrá visualizar los componentes utilizados,. La siguiente imagen muestra el esquemático del diseño de la placa de control de los motores del robot. 
 
-![](https://github.com/Robot-Sumo/SumoPontifice-Hardware/blob/master/Im%C3%A1genes/PlacaMotores.png)
+![](https://github.com/Robot-Sumo/SumoPontifice-Hardware/blob/master/Im%C3%A1genes/PlacaMotores.png )
 
 En las siguientes figuras se puede observar la versión final del diseño de esta placa:
 
 * Vista superior
-![](https://github.com/Robot-Sumo/SumoPontifice-Hardware/blob/master/Im%C3%A1genes/PCB_Front.png)
-![](https://github.com/Robot-Sumo/SumoPontifice-Hardware/blob/master/Im%C3%A1genes/3dViewerFront.png)
+![](https://github.com/Robot-Sumo/SumoPontifice-Hardware/blob/master/Im%C3%A1genes/PCB_Front.png =250x250)
+![](https://github.com/Robot-Sumo/SumoPontifice-Hardware/blob/master/Im%C3%A1genes/3dViewerFront.png =250x250)
 
 * Vista Inferior
 ![](https://github.com/Robot-Sumo/SumoPontifice-Hardware/blob/master/Im%C3%A1genes/3dViewerBottom.png)
