@@ -19,7 +19,7 @@ Para visualizar los proyectos se debe abrir con Kicad los archivos de extensión
 De esta forma se encontraran disponibles el archivo .sch (Esquemático del diseño) y el archivo .kicad_pcb (pcb del diseño).
 
 En el esquemático se podrá visualizar los componentes utilizados,. La siguiente imagen muestra el esquemático del diseño de la placa de control de los motores del robot. 
-
+<img src="https://github.com/Robot-Sumo/SumoPontifice-Hardware/blob/master/Im%C3%A1genes/PlacaMotores.png?" width="400" height="790">
 ![](https://github.com/Robot-Sumo/SumoPontifice-Hardware/blob/master/Im%C3%A1genes/PlacaMotores.png?v=4&s=20 )
 
 En las siguientes figuras se puede observar la versión final del diseño de esta placa:
