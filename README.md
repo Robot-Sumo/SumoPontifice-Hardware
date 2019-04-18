@@ -7,7 +7,7 @@ Este software se encuentra disponible para Linux, Windows y MacOS y puede ser in
 
 En este desarrollo se utilizó Kicad 5.0.2 para Ubunbtu.
 
-#Diseños realizados
+# Diseños realizados
 En este repositporio se encuentran disponibles dos placas diseñadas para el Robot-Sumo utilizando :
 
 * Placa de control a bajo nivel de los motores del robot.
@@ -22,7 +22,32 @@ En el esquemático se podrá visualizar los componentes utilizados,. La siguient
 
 ![](https://github.com/Robot-Sumo/SumoPontifice-Hardware/blob/master/Im%C3%A1genes/PlacaMotores.png)
 
-En el diseño  del pcb
+En las siguientes figuras se puede observar la versión final del diseño de esta placa:
+
+* Vista superior
+![](https://github.com/Robot-Sumo/SumoPontifice-Hardware/blob/master/Im%C3%A1genes/PCB_Front.png)
+![](https://github.com/Robot-Sumo/SumoPontifice-Hardware/blob/master/Im%C3%A1genes/3dViewerFront.png)
+
+* Vista Inferior
+![](https://github.com/Robot-Sumo/SumoPontifice-Hardware/blob/master/Im%C3%A1genes/3dViewerBottom.png)
+
+# Proceso de realización
+
+La placa fue realizada mediante la transferencia del circuito impreso (como el mostrado en la siguiente figura) a la placa de cobre.
+
+![](https://github.com/Robot-Sumo/SumoPontifice-Hardware/blob/master/Im%C3%A1genes/PCB_Papel.png)
+
+Posteriormente se utilizó ácido férrico y se tuvo el siguiente acabado:
+
+![](https://github.com/Robot-Sumo/SumoPontifice-Hardware/blob/master/Im%C3%A1genes/PCB_PostAcido.png)
+
+Después de esto se realizaron las perforaciones de los pads y remoción de la tinta de la transferencia del circuito. La imagen siguiente muestra el resultado.
+
+![](https://github.com/Robot-Sumo/SumoPontifice-Hardware/blob/master/Im%C3%A1genes/PCB_Perforada.png)
+
+
+
+
 
 
 
