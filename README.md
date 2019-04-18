@@ -25,8 +25,8 @@ En el esquemático se podrá visualizar los componentes utilizados,. La siguient
 En las siguientes figuras se puede observar la versión final del diseño de esta placa:
 
 * Vista superior
-![](<img src="https://github.com/Robot-Sumo/SumoPontifice-Hardware/blob/master/Im%C3%A1genes/PCB_Front.png" alt="alt text" width="250" height="250"> )
-![](https://github.com/Robot-Sumo/SumoPontifice-Hardware/blob/master/Im%C3%A1genes/3dViewerFront.png =250x250)
+![](https://github.com/Robot-Sumo/SumoPontifice-Hardware/blob/master/Im%C3%A1genes/PCB_Front.png )
+![](https://github.com/Robot-Sumo/SumoPontifice-Hardware/blob/master/Im%C3%A1genes/3dViewerFront.png )
 
 * Vista Inferior
 ![](https://github.com/Robot-Sumo/SumoPontifice-Hardware/blob/master/Im%C3%A1genes/3dViewerBottom.png)
