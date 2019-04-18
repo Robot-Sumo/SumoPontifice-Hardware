@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name FusibleAmericano)(type KiCad)(uri ${KIPRJMOD}/FusibleAmericano.pretty)(options "")(descr ""))
+  (lib (name SwitchPower)(type KiCad)(uri ${KIPRJMOD}/SwitchPower.pretty)(options "")(descr ""))
+)
