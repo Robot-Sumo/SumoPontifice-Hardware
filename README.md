@@ -39,18 +39,18 @@ En las siguientes figuras se puede observar la versión final del diseño de est
 ## Proceso de realización
 
 La placa fue realizada mediante la transferencia del circuito impreso (como el mostrado en la siguiente figura) a la placa de cobre.
-<img src="https://github.com/Robot-Sumo/SumoPontifice-Hardware/blob/master/Im%C3%A1genes/PCB_Papel.jpg" width="640" height="720">
+<img src="https://github.com/Robot-Sumo/SumoPontifice-Hardware/blob/master/Im%C3%A1genes/PCB_Papel.jpg" width="720" height="720">
 
 Posteriormente se utilizó ácido férrico y se tuvo el siguiente acabado:
 
-<img src="https://github.com/Robot-Sumo/SumoPontifice-Hardware/blob/master/Im%C3%A1genes/PCB_PostAcido.jpg" width="640" height="720">
+<img src="https://github.com/Robot-Sumo/SumoPontifice-Hardware/blob/master/Im%C3%A1genes/PCB_PostAcido.jpg" width="720" height="720">
 
 Después de esto se realizaron las perforaciones de los pads y remoción de la tinta de la transferencia del circuito. La imagen siguiente muestra el resultado.
 
-<img src="https://github.com/Robot-Sumo/SumoPontifice-Hardware/blob/master/Im%C3%A1genes/PCB_Perforada.jpg" width="640" height="720">
+<img src="https://github.com/Robot-Sumo/SumoPontifice-Hardware/blob/master/Im%C3%A1genes/PCB_Perforada.jpg" width="720" height="720">
 
 El resultado final se presenta a continuación:
 
-<img src="https://github.com/Robot-Sumo/SumoPontifice-Hardware/blob/master/Im%C3%A1genes/PCB_Final.jpg" width="640" height="720">
+<img src="https://github.com/Robot-Sumo/SumoPontifice-Hardware/blob/master/Im%C3%A1genes/PCB_Final.jpg" width="640" height="480">
 
-<img src="https://github.com/Robot-Sumo/SumoPontifice-Hardware/blob/master/Im%C3%A1genes/PCB_FinalFront.jpg" width="640" height="720">
+<img src="https://github.com/Robot-Sumo/SumoPontifice-Hardware/blob/master/Im%C3%A1genes/PCB_FinalFront.jpg" width="720" height="720">
