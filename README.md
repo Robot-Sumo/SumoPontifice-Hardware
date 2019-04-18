@@ -24,17 +24,25 @@ De esta forma se encontraran disponibles el archivo .sch (Esquemático del dise�
 
 En el esquemático se podrá visualizar los componentes utilizados,. La siguiente imagen muestra el esquemático del diseño de la placa de control de los motores del robot.
 
+<p align="center">
 <img src="https://github.com/Robot-Sumo/SumoPontifice-Hardware/blob/master/Im%C3%A1genes/PlacaMotores.png">
+</p>
 
 En las siguientes figuras se puede observar la versión final del diseño de esta placa:
 
 * Vista superior
-
+<p align="center">
 <img src="https://github.com/Robot-Sumo/SumoPontifice-Hardware/blob/master/Im%C3%A1genes/3dViewerFront.png" width="640" height="480">
+</p>
 
 * Vista Inferior
+<p align="center">
 <img src="https://github.com/Robot-Sumo/SumoPontifice-Hardware/blob/master/Im%C3%A1genes/PCB_Front.png" width="640" height="480">
+</p>
+
+<p align="center">
 <img src="https://github.com/Robot-Sumo/SumoPontifice-Hardware/blob/master/Im%C3%A1genes/3dViewerBottom.png" width="640" height="480">
+</p>
 
 ## Proceso de realización
 
@@ -47,13 +55,13 @@ La placa fue realizada mediante la transferencia del circuito impreso (como el m
 Posteriormente se utilizó ácido férrico y se tuvo el siguiente acabado:
 
 <p align="center">
-<img src="https://github.com/Robot-Sumo/SumoPontifice-Hardware/blob/master/Im%C3%A1genes/PCB_PostAcido.jpg" width="720" height="720">
+<img src="https://github.com/Robot-Sumo/SumoPontifice-Hardware/blob/master/Im%C3%A1genes/PCB_PostAcido.jpg" width="480" height="640">
 </p>
 
 Después de esto se realizaron las perforaciones de los pads y remoción de la tinta de la transferencia del circuito. La imagen siguiente muestra el resultado.
 
 <p align="center">
-<img src="https://github.com/Robot-Sumo/SumoPontifice-Hardware/blob/master/Im%C3%A1genes/PCB_Perforada.jpg" width="720" height="720">
+<img src="https://github.com/Robot-Sumo/SumoPontifice-Hardware/blob/master/Im%C3%A1genes/PCB_Perforada.jpg" width="480" height="640">
 </p>
 
 El resultado final se presenta a continuación:
