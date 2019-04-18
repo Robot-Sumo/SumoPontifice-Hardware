@@ -1,24 +1,29 @@
 # SumoPontifice-Hardware
+
 Diseño en [Kicad](http://kicad-pcb.org/about/kicad/) de los circuitos impresos (PCB's) utilizadas para la elaboración del Robot-Sumo.
 
-# Instalación de Kicad
+## Instalación de Kicad
+
 Kicad es una herramienta de software libre que permite el diseño de circuitos impresos con una rápida curva de aprendizaje. 
 Este software se encuentra disponible para Linux, Windows y MacOS y puede ser instalado siguiendo las instrucciones de su [página de descarga](http://kicad-pcb.org/download/).
 
 En este desarrollo se utilizó Kicad 5.0.2 para Ubunbtu.
 
-# Diseños realizados
+## Diseños realizados
+
 En este repositporio se encuentran disponibles dos placas diseñadas para el Robot-Sumo utilizando :
 
 * Placa de control a bajo nivel de los motores del robot.
 * Placa del sistema de alimentación.
 
-#Visualización de diseños
+## Visualización de diseños
+
 Para visualizar los proyectos se debe abrir con Kicad los archivos de extensión .pro.
 
 De esta forma se encontraran disponibles el archivo .sch (Esquemático del diseño) y el archivo .kicad_pcb (pcb del diseño).
 
-En el esquemático se podrá visualizar los componentes utilizados,. La siguiente imagen muestra el esquemático del diseño de la placa de control de los motores del robot. 
+En el esquemático se podrá visualizar los componentes utilizados,. La siguiente imagen muestra el esquemático del diseño de la placa de control de los motores del robot.
+
 <img src="https://github.com/Robot-Sumo/SumoPontifice-Hardware/blob/master/Im%C3%A1genes/PlacaMotores.png">
 
 En las siguientes figuras se puede observar la versión final del diseño de esta placa:
@@ -31,24 +36,21 @@ En las siguientes figuras se puede observar la versión final del diseño de est
 <img src="https://github.com/Robot-Sumo/SumoPontifice-Hardware/blob/master/Im%C3%A1genes/PCB_Front.png" width="640" height="480">
 <img src="https://github.com/Robot-Sumo/SumoPontifice-Hardware/blob/master/Im%C3%A1genes/3dViewerBottom.png" width="640" height="480">
 
-
-# Proceso de realización
+## Proceso de realización
 
 La placa fue realizada mediante la transferencia del circuito impreso (como el mostrado en la siguiente figura) a la placa de cobre.
-<img src="https://github.com/Robot-Sumo/SumoPontifice-Hardware/blob/master/Im%C3%A1genes/PCB_Papel.jpg" width="640" height="480">
-
+<img src="https://github.com/Robot-Sumo/SumoPontifice-Hardware/blob/master/Im%C3%A1genes/PCB_Papel.jpg" width="640" height="720">
 
 Posteriormente se utilizó ácido férrico y se tuvo el siguiente acabado:
 
-<img src="https://github.com/Robot-Sumo/SumoPontifice-Hardware/blob/master/Im%C3%A1genes/PCB_PostAcido.jpg" width="640" height="480">
-
+<img src="https://github.com/Robot-Sumo/SumoPontifice-Hardware/blob/master/Im%C3%A1genes/PCB_PostAcido.jpg" width="640" height="720">
 
 Después de esto se realizaron las perforaciones de los pads y remoción de la tinta de la transferencia del circuito. La imagen siguiente muestra el resultado.
 
-<img src="https://github.com/Robot-Sumo/SumoPontifice-Hardware/blob/master/Im%C3%A1genes/PCB_Perforada.jpg" width="640" height="480">
+<img src="https://github.com/Robot-Sumo/SumoPontifice-Hardware/blob/master/Im%C3%A1genes/PCB_Perforada.jpg" width="640" height="720">
 
 El resultado final se presenta a continuación:
 
-<img src="https://github.com/Robot-Sumo/SumoPontifice-Hardware/blob/master/Im%C3%A1genes/PCB_Final.jpg" width="640" height="480">
+<img src="https://github.com/Robot-Sumo/SumoPontifice-Hardware/blob/master/Im%C3%A1genes/PCB_Final.jpg" width="640" height="720">
 
-<img src="https://github.com/Robot-Sumo/SumoPontifice-Hardware/blob/master/Im%C3%A1genes/PCB_FinalFront.jpg" width="640" height="480">
+<img src="https://github.com/Robot-Sumo/SumoPontifice-Hardware/blob/master/Im%C3%A1genes/PCB_FinalFront.jpg" width="640" height="720">
