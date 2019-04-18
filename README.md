@@ -41,7 +41,7 @@ En las siguientes figuras se puede observar la versión final del diseño de est
 La placa fue realizada mediante la transferencia del circuito impreso (como el mostrado en la siguiente figura) a la placa de cobre.
 
 <p align="center">
-<img src="https://github.com/Robot-Sumo/SumoPontifice-Hardware/blob/master/Im%C3%A1genes/PCB_Papel.jpg" width="720" height="720">
+<img src="https://github.com/Robot-Sumo/SumoPontifice-Hardware/blob/master/Im%C3%A1genes/PCB_Papel.jpg" width="480" height="640">
 </p>
 
 Posteriormente se utilizó ácido férrico y se tuvo el siguiente acabado:
