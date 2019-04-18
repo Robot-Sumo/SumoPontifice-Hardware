@@ -35,15 +35,15 @@ En las siguientes figuras se puede observar la versión final del diseño de est
 
 La placa fue realizada mediante la transferencia del circuito impreso (como el mostrado en la siguiente figura) a la placa de cobre.
 
-![](https://github.com/Robot-Sumo/SumoPontifice-Hardware/blob/master/Im%C3%A1genes/PCB_Papel.png)
+![](https://github.com/Robot-Sumo/SumoPontifice-Hardware/blob/master/Im%C3%A1genes/PCB_Papel.jpg)
 
 Posteriormente se utilizó ácido férrico y se tuvo el siguiente acabado:
 
-![](https://github.com/Robot-Sumo/SumoPontifice-Hardware/blob/master/Im%C3%A1genes/PCB_PostAcido.png)
+![](https://github.com/Robot-Sumo/SumoPontifice-Hardware/blob/master/Im%C3%A1genes/PCB_PostAcido.jpg)
 
 Después de esto se realizaron las perforaciones de los pads y remoción de la tinta de la transferencia del circuito. La imagen siguiente muestra el resultado.
 
-![](https://github.com/Robot-Sumo/SumoPontifice-Hardware/blob/master/Im%C3%A1genes/PCB_Perforada.png)
+![](https://github.com/Robot-Sumo/SumoPontifice-Hardware/blob/master/Im%C3%A1genes/PCB_Perforada.jpg)
 
 
 
