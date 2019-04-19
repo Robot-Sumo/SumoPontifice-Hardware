@@ -7,7 +7,7 @@ Diseño en [Kicad](http://kicad-pcb.org/about/kicad/) de los circuitos impresos 
 Kicad es una herramienta de software libre que permite el diseño de circuitos impresos con una rápida curva de aprendizaje. 
 Este software se encuentra disponible para Linux, Windows y MacOS y puede ser instalado siguiendo las instrucciones de su [página de descarga](http://kicad-pcb.org/download/).
 
-En este desarrollo se utilizó Kicad 5.0.2 para Ubunbtu.
+En este desarrollo se utilizó Kicad 5.0.2 para Ubuntu.
 
 ## Diseños realizados
 
